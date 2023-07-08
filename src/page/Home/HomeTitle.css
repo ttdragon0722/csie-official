@@ -1,0 +1,17 @@
+.home-title {
+    padding: 15vh 0 10vh;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-content: center; */
+
+    margin-bottom: 10vh;
+
+    position: relative;
+    min-height: 95vh;
+}
+
+.logo {
+    width: 56%;
+    position: absolute;
+    right: 0;
+}

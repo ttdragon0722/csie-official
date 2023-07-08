@@ -1,0 +1,14 @@
+.col {
+    display: flex;
+    justify-content: center;
+
+    margin: 1.5%;
+}
+.col > div {
+    margin: 0 2%;
+}
+
+.bold {
+    font-weight: bold;
+}
+

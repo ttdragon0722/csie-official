@@ -1,0 +1,21 @@
+.big-title {
+    padding: 15vh 0 10vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    margin-bottom: 10vh;
+}
+
+.big-title h1 {
+    position: relative;
+}
+
+.line {
+    position: absolute;
+    width: 120%;
+    height: 1px;
+    background-color: white;
+    top: 110%;
+    left: -10%;
+}
